@@ -1,0 +1,15 @@
+.sidebar {
+    width: 30%;
+    height: 100vh;
+}
+
+.tab {
+    display: inline-block;
+    height: 50px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    width: 100px;
+    line-height: 50px;
+    border: 1px solid #e4e4e4;
+}
